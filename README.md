@@ -1,0 +1,1 @@
+# 51-openapi-swagger-starter-projects-spring-data-rest
